@@ -1,0 +1,9 @@
+SELECT * FROM Dim_User LIMIT 3;
+SELECT * FROM Dim_Device LIMIT 3;
+SELECT * FROM Dim_Report LIMIT 3;
+SELECT * FROM Dim_Bug_report LIMIT 3;
+SELECT * FROM Dim_Known_issue LIMIT 3;
+SELECT * FROM Dim_Failure LIMIT 3;
+SELECT * FROM FT_Report_result LIMIT 3;
+SELECT * FROM FT_Session LIMIT 3;
+SELECT * FROM Dim_Time LIMIT 3;
